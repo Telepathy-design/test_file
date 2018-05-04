@@ -117,6 +117,18 @@
     {
       "class": "group",
       "id": "5BE7FCFC-B9ED-4349-BF8C-EC98EFE95F5B"
+    },
+    {
+      "class": "text",
+      "id": "4456F40A-E162-4375-9CDA-6D8C80880546"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5E52725C-4230-4AC1-8772-1E8C364F4043"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D0312CB0-C133-419A-A533-CACD85D51F5C"
     }
   ],
   "name": "straight",
