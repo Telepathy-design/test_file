@@ -1,0 +1,70 @@
+{
+  "_class": "page",
+  "do_objectID": "D9908E9D-8B58-4A10-A5FF-E23DA57B2D78",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -448,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "5A7C65F6-6DF4-4147-92D5-B603EE0A534F"
+    },
+    {
+      "class": "artboard",
+      "id": "0D35FB0A-FCBB-486C-862E-165663709244"
+    },
+    {
+      "class": "artboard",
+      "id": "EFD3E362-6FC4-405F-BE69-F12538FAB7B4"
+    },
+    {
+      "class": "artboard",
+      "id": "BE665A23-4450-47CA-8578-171147CC72A9"
+    }
+  ],
+  "name": "Exploratory Design",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -306,
+    "guides": [
+    ]
+  }
+}
